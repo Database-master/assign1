@@ -1,6 +1,7 @@
 # Assignment 3 - Basic SQL Queries
 
 1. Copy the URL for this repository and clone it to your Cloud9 workspace: `git clone url`  where `url` is the URL for this repository
+2. Change to the new directory: `cd assign3`
 2. Create the assign3 database: `mysql -u username < skyscrapers.sql`
 3. Paste the solutions to the following exercises in the assign3.sql file
 4.  When you've completed the exercises, save the assign3.sql file.  Commit and push your solutions to GitHub.
