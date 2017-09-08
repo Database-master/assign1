@@ -1,4 +1,4 @@
-USE skyscrapers;
+USE assign3;
 -- add sql queries under the appropriate comment
 
 -- exercise 1
