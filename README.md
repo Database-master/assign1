@@ -7,6 +7,7 @@
 ```
 git add .
 git commit -m "completed assignment 3"
+git push
 ```
 
 ## Exercise 1
