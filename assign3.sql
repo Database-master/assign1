@@ -1,4 +1,4 @@
-USE assign3;
+USE buildings;
 -- add sql queries under the appropriate comment
 
 -- exercise 1
