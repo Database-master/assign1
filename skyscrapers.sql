@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS assign3;
-USE assign3;
+CREATE DATABASE IF NOT EXISTS buildings;
+USE buildings;
 
 CREATE TABLE skyscrapers (abandoned integer, air_traffic_control_tower integer, belltower integer, bridge integer, casino integer, city text, city_id integer, commercial integer, completed_year integer, country text, country_id integer, current text, education integer, exhibition integer, floors_above integer, government integer, height real, hospital integer, hotel integer, id integer, industrial integer, is_completed integer, is_started integer, latitude integer, library integer, longitude integer, material text, multiple integer, museum integer, name text, number_of_purposes integer, observation integer, office integer, other integer, rank integer, religious integer, residential integer, retail integer, serviced_apartments integer, started_year integer, telecommunications integer);
 INSERT INTO skyscrapers VALUES (FALSE, FALSE, FALSE, FALSE, FALSE, 'Chicago', 1539, FALSE, 0, 'US', 163, 'vision', FALSE, FALSE, 528, TRUE, 1609.35998535, FALSE, TRUE, 12, FALSE, FALSE, FALSE, 0, FALSE, 0, 'steel', FALSE, FALSE, 'The Illinois', 4, FALSE, TRUE, FALSE, 1, FALSE, TRUE, FALSE, FALSE, 0, FALSE);
